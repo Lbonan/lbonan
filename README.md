@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Bonan 👋🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/lucas-bonan-69a416271/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bonan-69a416271/)
 
 
 ![Bonan GitHub stats](https://github-readme-stats.vercel.app/api?username=lbonan&show_icons=true&theme=dracula)
@@ -18,6 +18,6 @@ Estou estudando novas tecnologias como, typescript e react, pretendo começar a 
 
 ## Contato
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasbonan15@gmail.com)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://lucasbonan15@gmail.com)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/lucas-bonan-69a416271/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bonan-69a416271/)
