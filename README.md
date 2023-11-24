@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Bonan 👋🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bonan-69a416271/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fullstack-dev/)
 
 
 ![Bonan GitHub stats](https://github-readme-stats.vercel.app/api?username=lbonan&show_icons=true&theme=dracula)
