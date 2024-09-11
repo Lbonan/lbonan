@@ -31,18 +31,17 @@ Dev Full Stack em formação.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank">
-  <a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank"  style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/lucasbonan__/?hl=en" target="_blank">
-  <a href="https://www.instagram.com/lucasbonan__/?hl=en" target="_blank"  style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:lucasbonan15@gmail.com" target="_blank">
-  <a href="mailto:lucasbonan15@gmail.com" target="_blank"  style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+
 
 
 <br><br/>
