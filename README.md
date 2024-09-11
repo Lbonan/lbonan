@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Lucas Bonan 👋🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fullstack-dev/)
+<hr>
 
 
    ![Lbonan's Stats](https://github-readme-stats.vercel.app/api?username=Lbonan&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
    ![Lbonan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lbonan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lbonan&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="302" alt="activity-graph graph"  />
 </div>
 
@@ -28,6 +28,15 @@ Dev Full Stack em formação.
 
 ## Contato
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://lucasbonan15@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="lucasbonan15@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fullstack-dev/)
+
+
+
