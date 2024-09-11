@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fullstack-dev/)
 
 
-<div align="center">
    ![Lbonan's Stats](https://github-readme-stats.vercel.app/api?username=Lbonan&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
    ![Lbonan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lbonan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lbonan&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="302" alt="activity-graph graph"  />
 </div>
 
