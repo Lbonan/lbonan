@@ -37,6 +37,8 @@ Dev Full Stack em formação.
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/Lbonan/Lbonan/output/snake.svg" alt="Snake animation" />
+
 
 
 
