@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Bonan 👋🏻
 
-Dev Full Stack em formação.
+Dev Full Stack em formação 🚀.
 <hr>
 
 
@@ -13,7 +13,7 @@ Dev Full Stack em formação.
 ###
 
 
-## Tecnologias que eu ultilizo
+## 🛠️ Tecnologias que eu ultilizo
 
 <div style="display: inline-block"><br>
 <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,25 +26,19 @@ Dev Full Stack em formação.
 <br></br>
 
 
-## Contato
-<br clear="both">
+## 📱 Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/lucasbonan__/?hl=en" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
-  </a>
-  <a href="mailto:lucasbonan15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
-  </a>
+
+<div> 
+  <a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://https://www.instagram.com/lucasbonan__/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasbonan15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
 
 
+###
 
-
-<br><br/>
 <img src="https://raw.githubusercontent.com/Lbonan/Lbonan/output/snake.svg" alt="Snake animation" />
 
 
