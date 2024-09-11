@@ -28,14 +28,20 @@ Dev Full Stack em formação.
 
 ## Contato
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
   </a>
-  <a href="lucasbonan15@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.instagram.com/lucasbonan__/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:lucasbonan15@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="35" alt="gmail logo"  />
   </a>
 </div>
+
 
 <img src="https://raw.githubusercontent.com/Lbonan/Lbonan/output/snake.svg" alt="Snake animation" />
 
