@@ -1,6 +1,12 @@
+![](https://komarev.com/ghpvc/?username=lbonan&color=a29bfe) ![Status](https://img.shields.io/badge/status-estudando-blue)
 ### Olá! Eu sou o Lucas Bonan 👋🏻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%a29bfe&width=400&lines=+Bem-vindo+ao+Meu+Perfil!)](https://git.io/typing-svg)
 
-Dev Full Stack em formação 🚀.
+### Sobre mim
+- 🏫 Dev full stack em formação 🚀.
+- 🎓 Graduando em engenharia de software(4º semestre).
+- 🌱 Aprendendo mais sobre Python.
+
 <hr>
 
 
@@ -41,10 +47,15 @@ Dev Full Stack em formação 🚀.
 <hr>
 <br>
 
-
+![Status](https://img.shields.io/badge/status-studying-blue)
 ### Hello Everyone! I'm Lucas Bonan 👋🏻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%a29bfe&width=400&lines=+Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
-Full Stack Dev in training 🚀.
+
+### About Me
+- 🏫 Full Stack Dev in training🚀.
+- 🎓 Software Engineering undergraduate (4th semester).
+- 🌱 Learning more about Python.
 <hr>
 
 
@@ -57,7 +68,7 @@ Full Stack Dev in training 🚀.
 ###
 
 
-## 🛠️ Technologies I use
+## 🛠️ My tools
 
 <div style="display: inline-block"><br>
 <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -86,7 +97,6 @@ Full Stack Dev in training 🚀.
 ###
 
 <img src="https://raw.githubusercontent.com/Lbonan/Lbonan/output/snake.svg" alt="Snake animation" />
-
 
  
 
