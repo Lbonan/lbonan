@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=lbonan&color=a29bfe) ![Status](https://img.shields.io/badge/status-estudando-blue)
 ### Olá! Eu sou o Lucas Bonan 👋🏻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%a29bfe&width=400&lines=+Bem-vindo+ao+Meu+Perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%a29bfe&width=400&lines=+Bem-vindo+ao+Meu+Perfil!;Conecte-se+comigo+no+Linkedin!)](https://git.io/typing-svg)
 
+
+ <a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ### Sobre mim
 - 🏫 Dev full stack em formação 🚀.
 - 🎓 Graduando em engenharia de software(4º semestre).
@@ -88,9 +90,9 @@
 
 ![Status](https://img.shields.io/badge/status-studying-blue)
 ### Hello Everyone! I'm Lucas Bonan 👋🏻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%a29bfe&width=400&lines=+Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%a29bfe&width=400&lines=+Welcome+to+my+Profile!;Connect+with+me+on+Linkedin!)](https://git.io/typing-svg)
 
-
+<a href="https://www.linkedin.com/in/lucas-fullstack-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ### About Me
 - 🏫 Full Stack Dev in training🚀.
 - 🎓 Software Engineering undergraduate (4th semester).
