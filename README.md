@@ -104,16 +104,12 @@
 - REST APIs
 - Back-End Development
 
-
-
 # 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lbonan&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lbonan&layout=compact&theme=tokyonight&hide_border=true" />
-
+  ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lbonan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lbonan&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 
