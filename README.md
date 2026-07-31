@@ -6,6 +6,8 @@
 
 Building scalable applications with Java, Spring Boot, React and Python.
 
+<img src="https://readme-typing-svg.herokuapp.com?color=a29bfe&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub!" />
+
 <br>
 
 <p>
@@ -31,7 +33,9 @@ My experience includes backend development with Java and Spring Boot, frontend a
 
 Currently, I'm deepening my knowledge in Software Architecture, System Design, Microservices and Cloud-native applications.
 
----
+<img src="divider.svg"/>
+
+<div>
 
 # Featured Projects
 
@@ -53,7 +57,12 @@ Features include shopping cart, API consumption and state management.
 
 **Tech Stack**
 
-React • TypeScript • Redux Toolkit • Styled Components
+React • TypeScript • Redux Toolkit • Styled Components  
+</div>
+
+
+
+<img src="divider.svg"/>
 
 
 
@@ -68,44 +77,8 @@ React • TypeScript • Redux Toolkit • Styled Components
 | | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | | | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) |
 | | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
-# Current Focus
 
-- Backend Development with Java & Spring Boot
-
-- Software Architecture
-
-- RESTful APIs
-
-- System Design
-
-- Microservices
-
-- Docker
-
-- Cloud Computing
-
-- Clean Architecture
-
-
-# Engineering Principles
-
-✔ Clean Code
-
-✔ SOLID Principles
-
-✔ Design Patterns
-
-✔ Domain-Driven Design
-
-✔ RESTful APIs
-
-✔ Software Architecture
-
-✔ Scalability
-
-✔ Maintainability
-
-✔ Continuous Learning
+<img src="divider.svg"/>
 
 # 📈 GitHub Stats
 
@@ -114,7 +87,6 @@ React • TypeScript • Redux Toolkit • Styled Components
   ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lbonan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lbonan&layout=compact&theme=tokyonight&hide_border=true)
 </div>
-
 
 
 # 📫 Connect With Me
@@ -132,7 +104,6 @@ React • TypeScript • Redux Toolkit • Styled Components
 
 
 </div>
-
 
 
 # What I'm Building
