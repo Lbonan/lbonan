@@ -1,37 +1,24 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2962FF,55:7DCFFF,100:BB9AF7&height=200&section=header&fontSize=40&fontColor=C0CAF5&animation=fadeIn" width="100%"/>
+
 # Lucas Bonan 👋
 
-### Full Stack Developer
-
-Building scalable applications with Java, Spring Boot, React and Python.
+### Software Engineering Student | Full Stack Development | Java & Spring Boot
 
 <img src="https://readme-typing-svg.herokuapp.com?color=a29bfe&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub!" />
 
 <br>
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=lbonan&style=flat-square&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Lbonan?style=flat-square"/>
-
-<img src="https://img.shields.io/github/stars/Lbonan?style=flat-square"/>
-
-</p>
 
 </div>
 
 
 # About Me
 
-I'm a Full Stack Developer and a Software Engineering undergraduate in my final semester.
+Software Engineering student in my final semester, focused on building maintainable software, well-structured APIs, and applications that integrate backend services, databases, and user interfaces.
 
-I enjoy designing well-structured software, building scalable applications and creating solutions that prioritize maintainability, scalability and clean architecture.
-
-My experience includes backend development with Java and Spring Boot, frontend applications with React and TypeScript, as well as Python and Django projects.
-
-Currently, I'm deepening my knowledge in Software Architecture, System Design, Microservices and Cloud-native applications.
+I care about software design beyond implementation: clear separation of responsibilities, input validation, consistent error handling, and maintainable code.
 
 <img src="divider.svg"/>
 
@@ -39,25 +26,37 @@ Currently, I'm deepening my knowledge in Software Architecture, System Design, M
 
 # Featured Projects
 
-### 💰 Budgeting API
+### 💰 Budgeting API  — **[Repository](https://github.com/Lbonan/budgeting)**
 
-AI-powered financial assistant built with Spring Boot and Spring AI.
+A financial assistant API built with Spring Boot and Spring AI, integrating AI capabilities with application tools to support financial operations.
 
 **Tech Stack**
 
-Java • Spring Boot • Spring AI • MySQL • Docker • REST APIs
+Java · Spring Boot · Spring AI · MySQL · Docker · REST APIs
 
 ---
 
-### 🎮 ePlay
+### 🍔 eFood  — **[Repository](https://github.com/Lbonan/efood)**
 
-Modern e-commerce platform for digital games.
+Modern e-commerce platform for food.
 
 Features include shopping cart, API consumption and state management.
 
 **Tech Stack**
 
-React • TypeScript • Redux Toolkit • Styled Components  
+React • TypeScript • Redux Toolkit • Styled Components
+
+--- 
+
+### 📈 Personal Finance Planner — Backend  — **[Repository](https://github.com/Lbonan/planejador_financeiro_backend)**
+
+A collaborative financial planning REST API developed with a team of three. I contribute to the accounts domain and the implementation of backend features using a layered architecture. 
+
+**Tech Stack** 
+
+Java · Spring Boot · REST APIs · Swagger/OpenAPI
+ 
+
 </div>
 
 
@@ -104,17 +103,6 @@ React • TypeScript • Redux Toolkit • Styled Components
 
 
 </div>
-
-
-# What I'm Building
-
-🚀 AI-powered applications
-
-🚀 Modern REST APIs
-
-🚀 Full Stack Web Applications
-
-🚀 Scalable Backend Systems 
 
 
 # 🐍 Contribution Snake
